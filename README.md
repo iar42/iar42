@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![An image of @iar42's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iar42)](https://holopin.io/@iar42)
 
 <!--
